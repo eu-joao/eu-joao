@@ -1,18 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="320px" align="right" alt="Computador iuriCode">
 
-# Hi I' am João
+## Hey! Welcome to my profile! How is it going? 👋
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+* 🚀 I am currently a computer science student at [UFAL](https://ufal.br/)
+* 💻 Python, JavaScript, Node.js, MySQL, React.js
+* a
 
 <p align="left">
   <a href="#" alt="Gmail">
