@@ -5,8 +5,3 @@
 * 🚀 I am currently a computer science student at [UFAL](https://ufal.br/)
 * 💻 Python, JavaScript, Node.js, MySQL, React.js
 * a
-
-<p align="left">
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>  
-</p>  
